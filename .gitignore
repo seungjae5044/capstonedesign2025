@@ -1,0 +1,4 @@
+*.safetensors
+*.fst
+*.zip
+vosk-model-small-ko/
